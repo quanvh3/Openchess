@@ -1,0 +1,180 @@
+
+open-chess-image.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 163
+  size: 480, 853
+  orig: 480, 853
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+newgame-down
+  rotate: false
+  xy: 483, 956
+  size: 200, 60
+  orig: 200, 60
+  offset: 0, 0
+  index: -1
+newgame
+  rotate: false
+  xy: 163, 101
+  size: 200, 60
+  orig: 200, 60
+  offset: 0, 0
+  index: -1
+ic-score
+  rotate: false
+  xy: 483, 826
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+score_background
+  rotate: false
+  xy: 163, 35
+  size: 164, 64
+  orig: 164, 64
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 483, 758
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 613, 888
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+opiece01
+  rotate: false
+  xy: 483, 692
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+opiece02
+  rotate: false
+  xy: 483, 626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+opiece03
+  rotate: false
+  xy: 483, 560
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+opiece04
+  rotate: false
+  xy: 483, 494
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+opiece05
+  rotate: false
+  xy: 483, 428
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+opiece06
+  rotate: false
+  xy: 483, 362
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piece01
+  rotate: false
+  xy: 483, 296
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piece02
+  rotate: false
+  xy: 483, 230
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piece03
+  rotate: false
+  xy: 483, 164
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piece04
+  rotate: false
+  xy: 685, 952
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piece05
+  rotate: false
+  xy: 751, 952
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piece06
+  rotate: false
+  xy: 817, 952
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+reset-down
+  rotate: false
+  xy: 883, 952
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+reset
+  rotate: false
+  xy: 949, 952
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 365, 97
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+undo-down
+  rotate: false
+  xy: 551, 760
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+undo
+  rotate: false
+  xy: 681, 886
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

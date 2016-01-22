@@ -1,0 +1,32 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		normal: { file: fonts/trebuchet-ms-25.fnt },
+		title: { file: fonts/trebuchet-ms-50-bold.fnt },
+  		trumpy: { file: fonts/trumpy.fnt },
+  		trumpyb: { file: fonts/trumpy_b.fnt }
+	},
+	com.badlogic.gdx.graphics.Color: {
+		normal : { hex: "DDDDDD" },
+		bright : { hex: "FFFFFF" },
+		black : { hex: "000000" }
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		default: { font: normal, fontColor: normal },
+		normal: { font: normal, fontColor: normal },
+  		trumpy: { font: trumpy, fontColor: bright },
+  		trumpyb: { font: trumpyb, fontColor: bright },
+		title: { font: title, fontColor: bright }
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+		reset: { up: reset, down: reset-down, checked:reset },
+  		undo: { up: undo, down: undo-down, checked:undo },
+  		newgame: { up: newgame, down: newgame-down, checked:newgame }
+	},
+  	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle:{
+  		default:{ font:normal}
+	},
+  	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+  		default: { background: background, titleFont: normal, titleFontColor: normal }
+	}
+
+}
